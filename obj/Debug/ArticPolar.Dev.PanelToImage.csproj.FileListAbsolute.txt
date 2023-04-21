@@ -1,0 +1,5 @@
+C:\Users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PanelToImage\ArticPolar.Dev.PanelToImage\bin\Debug\ArticPolar.Dev.PanelToImage.dll
+C:\Users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PanelToImage\ArticPolar.Dev.PanelToImage\bin\Debug\ArticPolar.Dev.PanelToImage.pdb
+C:\Users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PanelToImage\ArticPolar.Dev.PanelToImage\obj\Debug\ArticPolar.Dev.PanelToImage.csprojResolveAssemblyReference.cache
+C:\Users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PanelToImage\ArticPolar.Dev.PanelToImage\obj\Debug\ArticPolar.Dev.PanelToImage.dll
+C:\Users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.PanelToImage\ArticPolar.Dev.PanelToImage\obj\Debug\ArticPolar.Dev.PanelToImage.pdb
